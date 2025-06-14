@@ -2,7 +2,7 @@
 
 ## 🧑‍🏫 Sobre mim
 
-Olá! Meu nome é **Cesar Mauricio Chauchuty** e sou professor(a) da Secretaria de Estado da Educação do Paraná, atuando como PSS nas disciplinas de **Programação Mobile** e **Ciência de Dados**.
+Olá! Meu nome é **Cesar Mauricio Chauchuty** e sou professor da Secretaria de Estado da Educação do Paraná, atuando como PSS nas disciplinas de **Programação Mobile** e **Ciência de Dados**.
 
 ---
 
