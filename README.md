@@ -18,7 +18,7 @@ Olá! Meu nome é **Cesar Mauricio Chauchuty** e sou professor da Secretaria de 
 - 🔗 [Turma: 3º B - SIST - https://github.com/profchauchuty/cepk-3b-sist-programacao-mobile](https://github.com/profchauchuty/cepk-3b-sist-programacao-mobile)
 
 ### 🔶 Ciência de Dados
-- 🔗 [Turma: 3º B - SIST - https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dado](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados)
+- 🔗 [Turma: 3º B - SIST - https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados)
 
 ---
 
