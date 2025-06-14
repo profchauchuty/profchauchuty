@@ -14,7 +14,7 @@ Olá! Meu nome é **Cesar Mauricio Chauchuty** e sou professor da Secretaria de 
 
 ## 📚 Repositórios das Disciplinas
 
-### 🔷 Desenvolvimento Mobile
+### 🔷 Programação Mobile
 - 🔗 [Turma: 3º B - SIST - https://github.com/profchauchuty/cepk-3b-sist-programacao-mobile](https://github.com/profchauchuty/cepk-3b-sist-programacao-mobile)
 
 ### 🔶 Ciência de Dados
