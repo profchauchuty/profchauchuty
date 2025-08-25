@@ -2,7 +2,7 @@
 
 ## 🧑‍🏫 Sobre mim
 
-Olá! Meu nome é **Cesar Mauricio Chauchuty** e sou professor da Secretaria de Estado da Educação do Paraná, atuando como PSS nas disciplinas de **Programação Mobile** e **Ciência de Dados**.
+Olá! Meu nome é **Cesar Mauricio Chauchuty** e sou professor da Secretaria de Estado da Educação do Paraná, atuando como PSS nas disciplinas de **Programação Mobile**, **Ciência de Dados**, **Lógica Computacional** e **Análise e Projeto de Sistemas**.
 
 ---
 
@@ -15,10 +15,16 @@ Olá! Meu nome é **Cesar Mauricio Chauchuty** e sou professor da Secretaria de 
 ## 📚 Repositórios das Disciplinas
 
 ### 🔷 Programação Mobile
-- 🔗 [Turma: 3º B - SIST - https://github.com/profchauchuty/cepk-3b-sist-programacao-mobile](https://github.com/profchauchuty/cepk-3b-sist-programacao-mobile)
+- 🔗 [CEPK - Turma: 3º B - SIST - https://github.com/profchauchuty/cepk-3b-sist-programacao-mobile](https://github.com/profchauchuty/cepk-3b-sist-programacao-mobile)
 
 ### 🔶 Ciência de Dados
-- 🔗 [Turma: 3º B - SIST - https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados)
+- 🔗 [CEPK - Turma: 3º B - SIST - https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados)
+
+### 🔷 Lógica Computacional
+- 🔗 [EPA - Turma: 1º T - SIST - https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados)
+
+### 🔶 Análise e Projeto de Sistemas
+- 🔗 [EPA - Turma: 3º T - SIST - https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados)
 
 ---
 
