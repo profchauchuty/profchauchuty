@@ -21,10 +21,10 @@ Olá! Meu nome é **Cesar Mauricio Chauchuty** e sou professor da Secretaria de 
 - 🔗 [CEPK - Turma: 3º B - SIST - https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados)
 
 ### 🔷 Lógica Computacional
-- 🔗 [EPA - Turma: 1º T - SIST - https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados)
+- 🔗 [EPA - Turma: 1º T - SIST - https://github.com/profchauchuty/epa-1T-sist-logica-computacional](https://github.com/profchauchuty/epa-1T-sist-logica-computacional)
 
 ### 🔶 Análise e Projeto de Sistemas
-- 🔗 [EPA - Turma: 3º T - SIST - https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados](https://github.com/profchauchuty/cepk-3b-sist-ciencia-de-dados)
+- 🔗 [EPA - Turma: 3º T - SIST - https://github.com/profchauchuty/epa-3T-sist-analise-e-projeto-de-sistemas](https://github.com/profchauchuty/epa-3T-sist-analise-e-projeto-de-sistemas)
 
 ---
 
