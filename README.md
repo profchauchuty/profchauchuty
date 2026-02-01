@@ -15,19 +15,19 @@ Olá! Meu nome é **Cesar Mauricio Chauchuty** e sou professor da Secretaria de 
 ## 📚 Repositórios das Disciplinas
 
 ### 🔷 Introdução à Programação
-- 🔗 Repositório com materiais introdutórios, exemplos práticos e atividades.
+- 🔗 https://github.com/profchauchuty/introducao-programacao
 
 ### 🔶 Lógica Computacional
-- 🔗 Repositório com conteúdos teóricos, exercícios de raciocínio lógico e resoluções.
+- 🔗 https://github.com/profchauchuty/logica-computacional
 
 ### 🔷 Banco de Dados I
-- 🔗 Repositório com fundamentos de banco de dados, modelagem conceitual e SQL básico.
+- 🔗 https://github.com/profchauchuty/banco-de-dados-I
 
 ### 🔶 Banco de Dados II
-- 🔗 Repositório com SQL avançado, normalização, consultas complexas e práticas com SGBDs.
+- 🔗 https://github.com/profchauchuty/banco-de-dados-II
 
 ### 🔷 Programação Mobile
-- 🔗 Repositório com projetos, exemplos práticos e conteúdos voltados ao desenvolvimento mobile.
+- 🔗 https://github.com/profchauchuty/programacao-mobile
 
 ---
 
