@@ -20,14 +20,11 @@ Olá! Meu nome é **Cesar Mauricio Chauchuty** e sou professor da Secretaria de 
 ### 🔶 Lógica Computacional
 - 🔗 https://github.com/profchauchuty/logica-computacional
 
-### 🔷 Banco de Dados I
-- 🔗 https://github.com/profchauchuty/banco-de-dados-I
+### 🔷 Educação Digital e Computação: Programação e I.A
+- 🔗 https://github.com/profchauchuty/educacao-digital
 
-### 🔶 Banco de Dados II
-- 🔗 https://github.com/profchauchuty/banco-de-dados-II
-
-### 🔷 Programação Mobile
-- 🔗 https://github.com/profchauchuty/programacao-mobile
+### 🔶 Robótica
+- 🔗 https://github.com/profchauchuty/robótica
 
 ---
 
