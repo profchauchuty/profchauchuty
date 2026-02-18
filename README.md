@@ -15,7 +15,7 @@ Olá! Meu nome é **Cesar Mauricio Chauchuty** e sou professor da Secretaria de 
 ## 📚 Repositórios das Disciplinas
 
 ### 🔷 Introdução à Programação
-- 🔗 https://github.com/profchauchuty/introducao-programacao
+- 🔗 https://github.com/profchauchuty/introducao-a-programacao
 
 ### 🔶 Lógica Computacional
 - 🔗 https://github.com/profchauchuty/logica-computacional
