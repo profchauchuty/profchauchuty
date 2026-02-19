@@ -24,7 +24,7 @@ Olá! Meu nome é **Cesar Mauricio Chauchuty** e sou professor da Secretaria de 
 - 🔗 https://github.com/profchauchuty/cepk-1b-educacao-digital
 
 ### 🔶 Robótica (CEPK-2C)
-- 🔗 https://github.com/profchauchuty/cepk-2c-robótica
+- 🔗 https://github.com/profchauchuty/cepk-2c-robotica
 
 ### 🔷 Programação Mobile (CEPK-3DSB)
 - 🔗 https://github.com/profchauchuty/cepk-3dsb-programacao-mobile
