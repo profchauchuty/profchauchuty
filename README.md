@@ -20,19 +20,19 @@ Olá! Meu nome é **Cesar Mauricio Chauchuty** e sou professor da Secretaria de 
 ### 🔶 Lógica Computacional (CEPK-1DSB)
 - 🔗 https://github.com/profchauchuty/cepk-1dsb-logica-computacional
 
-### 🔶 Banco de Dados (CEPK-1DSB)
+### 🔷 Banco de Dados (CEPK-1DSB)
 - 🔗 https://github.com/profchauchuty/cepk-1dsb-banco-de-dados
 
-### 🔷 Educação Digital e Computação: Programação e I.A (CEPK-1B)
+### 🔶 Educação Digital e Computação: Programação e I.A (CEPK-1B)
 - 🔗 https://github.com/profchauchuty/cepk-1b-educacao-digital
 
-### 🔶 Robótica (CEPK-2C)
+### 🔷 Robótica (CEPK-2C)
 - 🔗 https://github.com/profchauchuty/cepk-2c-robotica
 
-### 🔷 Programação Mobile (CEPK-3DSB)
+### 🔶 Programação Mobile (CEPK-3DSB)
 - 🔗 https://github.com/profchauchuty/cepk-3dsb-programacao-mobile
 
-### 🔶 Programação Mobile (CEPK-3DSC)
+### 🔷 Programação Mobile (CEPK-3DSC)
 - 🔗 https://github.com/profchauchuty/cepk-3dsc-programacao-mobile
 
 ---
