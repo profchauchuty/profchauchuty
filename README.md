@@ -23,6 +23,12 @@ Olá! Meu nome é **Cesar Mauricio Chauchuty** e sou professor da Secretaria de 
 ### 🔷 Banco de Dados (CEPK-1DSB)
 - 🔗 https://github.com/profchauchuty/cepk-1dsb-banco-de-dados
 
+### 🔶 Ciência de Dados (CEPK-3DSB)
+- 🔗 https://github.com/profchauchuty/cepk-3dsb-ciencia-de-dados
+
+### 🔷 Ciência de Dados (CEPK-3DSC)
+- 🔗 https://github.com/profchauchuty/cepk-3dsc-ciencia-de-dados
+
 ### 🔶 Educação Digital e Computação: Programação e I.A (CEPK-1B)
 - 🔗 https://github.com/profchauchuty/cepk-1b-educacao-digital
 
